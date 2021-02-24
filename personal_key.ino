@@ -22,7 +22,7 @@ const char key0_sen0[] = "I Checked the completion of the basic test from the pe
 const char key0_sen1[] = "It seems to be no problem when checking the change list.";
 const char key0_sen2[] = "Approved";
 //Key_1
-const char key1_sen0[] = "flqbgkduTtmqslek.";  //Reviewed
+const char key1_sen0[] = "flqbgkduTtmqslek.";
 //Key_2
 const char key2_sen0[] = "0153pyk*";  //password_1
 //Key_3
