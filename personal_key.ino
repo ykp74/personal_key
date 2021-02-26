@@ -17,16 +17,21 @@ long current_time_ms;
 boolean is_first_push = false;
 const int LED1 = 6;
 
-//Key_0
+//Key_0 Review comment
 const char key0_sen0[] = "I Checked the completion of the basic test from the person in charge.";
 const char key0_sen1[] = "It seems to be no problem when checking the change list.";
 const char key0_sen2[] = "Approved";
-//Key_1
+
+//Key_1 Review Feedback comment
 const char key1_sen0[] = "flqbgkduTtmqslek."; //reviewed for hangle
+
 //Key_2
-const char key2_sen0[] = "0153pyk*";  //password_1
+//const char key2_sen0[] = "0153pyk*";  //password_1
+const char key2_sen0[] = "00153pyk*";  //password_1
+
 //Key_3
-const char key3_sen0[] = "ykp0153*";  //password_2
+//const char key3_sen0[] = "ykp0153*";  //password_2
+const char key3_sen0[] = "yykp0153*";  //password_2
 
 enum key_state {
     KEY_NONE,
